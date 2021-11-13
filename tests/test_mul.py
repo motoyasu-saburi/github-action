@@ -9,4 +9,4 @@ class TestMul(TestCase):
         self.assertEqual(multiple(2), 4)
 
     def test_mul2(self):
-        self.assertEqual(multiple(2), 4)
+        self.assertEqual(multiple(2), 2)
